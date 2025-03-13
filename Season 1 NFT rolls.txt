@@ -1,0 +1,33 @@
+Block 0 (Main NFT):
+Roll: https://explorer.solana.com/tx/29V5BuW2q82o56vmyAJq8ujEexgDV6dGQ8dZ4csXs5KrqZzCwCUdUgZ4hjUt8d1TwGR38bjuCyAHJQHLqz27XRpQ?cluster=devnet
+Roll result: 761337923
+Total tickets: 3308
+Winner ticket: 761337923 % 3308 + 1 = 1724
+Wallet: CgWm32GZB4G4CF7sxhEK9jsQGuReSMikMAHxeGjrHt1a
+
+Block 18:
+Wallet: CgWm32GZB4G4CF7sxhEK9jsQGuReSMikMAHxeGjrHt1a
+
+Block 20:
+Wallet: Hkbd6wx41Ln2bd25HQsrEFHXoii1iX9PpEb4kMwvrU1G
+
+Block 21:
+Wallet: CgWm32GZB4G4CF7sxhEK9jsQGuReSMikMAHxeGjrHt1a
+
+Block 26:
+Wallet: CgWm32GZB4G4CF7sxhEK9jsQGuReSMikMAHxeGjrHt1a
+
+Block 27:
+Wallet: CgWm32GZB4G4CF7sxhEK9jsQGuReSMikMAHxeGjrHt1a
+
+Block 31:
+Wallet: HXFDaHyZ3i477z1BakiTWZg9UQN8rcreruuv9ifC1HvM
+
+Block 32:
+Wallet: HXFDaHyZ3i477z1BakiTWZg9UQN8rcreruuv9ifC1HvM
+
+Block 33:
+Wallet: CgWm32GZB4G4CF7sxhEK9jsQGuReSMikMAHxeGjrHt1a
+
+Block 35:
+Wallet: CgWm32GZB4G4CF7sxhEK9jsQGuReSMikMAHxeGjrHt1a
